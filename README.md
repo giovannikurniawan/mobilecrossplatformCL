@@ -9,7 +9,6 @@
 <p>Week 9 Geolocation and GoogleMaps</p>
 <p>Week 10 HTTP Request</p>
 <p>Week 11 Firebase</p>
-<p>Week 12 Comming Soon</p>
-<p>Week 13 Comming Soon</p>
+
 
 
