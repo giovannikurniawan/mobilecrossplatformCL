@@ -1,0 +1,10 @@
+.preview {
+  height: 50%;
+  width: 50%;
+  margin: 1rem;
+  border: 3px solid black;
+  margin-left: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
